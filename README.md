@@ -38,7 +38,7 @@ My current technical interests include Computer Vision, Structured light, 3D Rec
 
 ## Featured Project
 
-### Automatic Headlight Calibration
+### Structured-Light Geometric Measurement for Automotive Headlight Alignment
 
 Camera–projector structured-light calibration, stereo vision and 3D reconstruction framework developed for an automotive headlight calibration application.
 
