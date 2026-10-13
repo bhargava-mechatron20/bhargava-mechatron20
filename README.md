@@ -42,7 +42,7 @@ My current technical interests include Computer Vision, Structured light, 3D Rec
 
 Camera–projector structured-light calibration, stereo vision and 3D reconstruction framework developed for an automotive headlight calibration application.
 
-The project covers camera calibration, projector calibration, structured-light decoding, stereo geometry, triangulation and 3D point-cloud reconstruction, along with extensions for checkerboard-free stereo calibration and automated calibration workflow visualization.
+The project covers camera calibration, projector calibration, structured-light decoding, stereo geometry triangulation and 3D point-cloud reconstruction, along with extensions for checkerboard-free stereo calibration and automated calibration workflow visualization.
 
 > Detailed project documentation and implementation can be found in the dedicated project repository.
 
